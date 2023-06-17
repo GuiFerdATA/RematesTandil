@@ -14,8 +14,6 @@ nav {
     background-size: cover;
     height: 600px;
     width: 100%;
-
-
 }
 .tittle_nav h1{
     
@@ -141,7 +139,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 9px;
 }
 
 footer h3 {
@@ -244,5 +241,16 @@ footer h3 {
         margin-top: 20px;
         margin-bottom: 20px;
 
+    }
+    .footer_a a {
+        font-family: 'Calibri', sans-serif;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: white;
+        font-size: 16px;
+        padding: 7px 13px;
+        border-radius: 4px;
+        text-transform: uppercase;
+        text-decoration: none;
     }
 }
