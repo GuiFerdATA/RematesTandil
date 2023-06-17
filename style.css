@@ -96,7 +96,7 @@ section {
 
 /* SECCION 2 */
 .section_2 {
-    background-color: #fff;
+   
     display: flex;
     align-items: center;
     justify-content: center;
@@ -111,11 +111,13 @@ section {
 }
 
 .section_2 h2 {
-    color: #d59740;
+    color:rgb(134, 94, 21);
+    
 }
 
 .section_2 h5 {
-    color: #d59740;
+    color: rgb(134, 94, 21);
+   
 }
 
 .section_2 .card {
