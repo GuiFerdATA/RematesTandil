@@ -88,7 +88,7 @@ section {
 }
 
 .card:hover {
-    transform: scale(1.03);
+    transform: scale(1.01);
     box-shadow: 13px 15px 37px
 }
 
@@ -139,7 +139,13 @@ section {
     justify-content: center;
     margin-top: 40px;
     margin-bottom: 20px;
+    padding: 20px;
 
+}
+
+.section_4 .card_2{
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 
@@ -265,5 +271,11 @@ footer h3 {
         border-radius: 4px;
         text-transform: uppercase;
         text-decoration: none;
+    }
+
+    .section_4 .card_2{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 20px;
     }
 }
